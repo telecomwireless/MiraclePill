@@ -1,0 +1,476 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C11MiraclePill14ViewController"
+provides-member:
+- ["C11MiraclePill14ViewController", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "numberOfComponents"
+- "pickerView"
+- "stateButton"
+- "stateDisplay"
+- "statePicker"
+- "states"
+- "viewDidLoad"
+depends-top-level:
+- "Array"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "Int"
+- "String"
+- "StringLiteralType"
+- "UIButton"
+- !private "UIControlState"
+- "UIPickerView"
+- "UIPickerViewDelegate"
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["Ps9AnyObject", "UIControlState"]
+- !private ["Ps9AnyObject", "delegate"]
+- !private ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "isHidden"]
+- ["Ps9AnyObject", "pickerView"]
+- !private ["Ps9AnyObject", "setTitle"]
+- !private ["Ps9AnyObject", "stateDisplay"]
+- !private ["Ps9AnyObject", "statePicker"]
+- !private ["Ps9AnyObject", "states"]
+- !private ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["Ps23BidirectionalCollection", "count"]
+- !private ["Ps23BidirectionalCollection", "subscript"]
+- !private ["PSo15CALayerDelegate", "delegate"]
+- !private ["PSo15CALayerDelegate", "isHidden"]
+- !private ["PSo15CALayerDelegate", "setTitle"]
+- !private ["Ps7CVarArg", "UIControlState"]
+- !private ["Ps7CVarArg", "count"]
+- !private ["Ps7CVarArg", "delegate"]
+- !private ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "isHidden"]
+- ["Ps7CVarArg", "pickerView"]
+- !private ["Ps7CVarArg", "setTitle"]
+- !private ["Ps7CVarArg", "stateDisplay"]
+- !private ["Ps7CVarArg", "statePicker"]
+- !private ["Ps7CVarArg", "states"]
+- !private ["Ps7CVarArg", "subscript"]
+- !private ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "count"]
+- !private ["Ps10Collection", "subscript"]
+- ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "UIControlState"]
+- !private ["Ps28CustomDebugStringConvertible", "count"]
+- !private ["Ps28CustomDebugStringConvertible", "delegate"]
+- !private ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "isHidden"]
+- ["Ps28CustomDebugStringConvertible", "pickerView"]
+- !private ["Ps28CustomDebugStringConvertible", "setTitle"]
+- !private ["Ps28CustomDebugStringConvertible", "stateDisplay"]
+- !private ["Ps28CustomDebugStringConvertible", "statePicker"]
+- !private ["Ps28CustomDebugStringConvertible", "states"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- !private ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "count"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "subscript"]
+- !private ["Ps23CustomStringConvertible", "UIControlState"]
+- !private ["Ps23CustomStringConvertible", "count"]
+- !private ["Ps23CustomStringConvertible", "delegate"]
+- !private ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "isHidden"]
+- ["Ps23CustomStringConvertible", "pickerView"]
+- !private ["Ps23CustomStringConvertible", "setTitle"]
+- !private ["Ps23CustomStringConvertible", "stateDisplay"]
+- !private ["Ps23CustomStringConvertible", "statePicker"]
+- !private ["Ps23CustomStringConvertible", "states"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- !private ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "UIControlState"]
+- !private ["Ps9Equatable", "delegate"]
+- !private ["Ps9Equatable", "didReceiveMemoryWarning"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "isHidden"]
+- !private ["Ps9Equatable", "normal"]
+- ["Ps9Equatable", "pickerView"]
+- !private ["Ps9Equatable", "setTitle"]
+- !private ["Ps9Equatable", "stateDisplay"]
+- !private ["Ps9Equatable", "statePicker"]
+- !private ["Ps9Equatable", "states"]
+- !private ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps25ExpressibleByArrayLiteral", "count"]
+- !private ["Ps25ExpressibleByArrayLiteral", "normal"]
+- !private ["Ps25ExpressibleByArrayLiteral", "subscript"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "UIControlState"]
+- !private ["Ps8Hashable", "delegate"]
+- !private ["Ps8Hashable", "didReceiveMemoryWarning"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "isHidden"]
+- ["Ps8Hashable", "pickerView"]
+- !private ["Ps8Hashable", "setTitle"]
+- !private ["Ps8Hashable", "stateDisplay"]
+- !private ["Ps8Hashable", "statePicker"]
+- !private ["Ps8Hashable", "states"]
+- !private ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- !private ["Ps17MutableCollection", "count"]
+- !private ["Ps17MutableCollection", "subscript"]
+- !private ["PSo8NSCoding", "UIControlState"]
+- !private ["PSo8NSCoding", "delegate"]
+- !private ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "isHidden"]
+- ["PSo8NSCoding", "pickerView"]
+- !private ["PSo8NSCoding", "setTitle"]
+- !private ["PSo8NSCoding", "stateDisplay"]
+- !private ["PSo8NSCoding", "statePicker"]
+- !private ["PSo8NSCoding", "states"]
+- !private ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "UIControlState"]
+- !private ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "pickerView"]
+- !private ["PSo26NSExtensionRequestHandling", "stateDisplay"]
+- !private ["PSo26NSExtensionRequestHandling", "statePicker"]
+- !private ["PSo26NSExtensionRequestHandling", "states"]
+- !private ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UIButton"]
+- !private ["CSo8NSObject", "UIControlState"]
+- ["CSo8NSObject", "UIPickerView"]
+- !private ["CSo8NSObject", "delegate"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "isHidden"]
+- ["CSo8NSObject", "numberOfComponents"]
+- ["CSo8NSObject", "pickerView"]
+- !private ["CSo8NSObject", "setTitle"]
+- ["CSo8NSObject", "stateButton"]
+- ["CSo8NSObject", "stateDisplay"]
+- ["CSo8NSObject", "statePicker"]
+- ["CSo8NSObject", "states"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "UIControlState"]
+- !private ["PSo16NSObjectProtocol", "delegate"]
+- !private ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "isHidden"]
+- ["PSo16NSObjectProtocol", "pickerView"]
+- !private ["PSo16NSObjectProtocol", "setTitle"]
+- !private ["PSo16NSObjectProtocol", "stateDisplay"]
+- !private ["PSo16NSObjectProtocol", "statePicker"]
+- !private ["PSo16NSObjectProtocol", "states"]
+- !private ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- !private ["Ps9OptionSet", "normal"]
+- !private ["Ps22RandomAccessCollection", "count"]
+- !private ["Ps22RandomAccessCollection", "subscript"]
+- !private ["Ps26RangeReplaceableCollection", "count"]
+- !private ["Ps26RangeReplaceableCollection", "subscript"]
+- !private ["Ps16RawRepresentable", "normal"]
+- !private ["Ps8Sequence", "count"]
+- !private ["Ps8Sequence", "subscript"]
+- !private ["Ps10SetAlgebra", "normal"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "delegate"]
+- !private ["PSo29UIAccessibilityIdentification", "isHidden"]
+- !private ["PSo29UIAccessibilityIdentification", "setTitle"]
+- !private ["PSo12UIAppearance", "delegate"]
+- !private ["PSo12UIAppearance", "isHidden"]
+- !private ["PSo12UIAppearance", "setTitle"]
+- !private ["PSo21UIAppearanceContainer", "UIControlState"]
+- !private ["PSo21UIAppearanceContainer", "delegate"]
+- !private ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "isHidden"]
+- ["PSo21UIAppearanceContainer", "pickerView"]
+- !private ["PSo21UIAppearanceContainer", "setTitle"]
+- !private ["PSo21UIAppearanceContainer", "stateDisplay"]
+- !private ["PSo21UIAppearanceContainer", "statePicker"]
+- !private ["PSo21UIAppearanceContainer", "states"]
+- !private ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo8UIButton", "setTitle"]
+- !private ["PSo18UIContentContainer", "UIControlState"]
+- !private ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "pickerView"]
+- !private ["PSo18UIContentContainer", "stateDisplay"]
+- !private ["PSo18UIContentContainer", "statePicker"]
+- !private ["PSo18UIContentContainer", "states"]
+- !private ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["CSo9UIControl", "setTitle"]
+- !private ["VSC14UIControlState", "normal"]
+- !private ["PSo17UICoordinateSpace", "delegate"]
+- !private ["PSo17UICoordinateSpace", "isHidden"]
+- !private ["PSo17UICoordinateSpace", "setTitle"]
+- !private ["PSo13UIDynamicItem", "delegate"]
+- !private ["PSo13UIDynamicItem", "isHidden"]
+- !private ["PSo13UIDynamicItem", "setTitle"]
+- !private ["PSo18UIFocusEnvironment", "UIControlState"]
+- !private ["PSo18UIFocusEnvironment", "delegate"]
+- !private ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "isHidden"]
+- ["PSo18UIFocusEnvironment", "pickerView"]
+- !private ["PSo18UIFocusEnvironment", "setTitle"]
+- !private ["PSo18UIFocusEnvironment", "stateDisplay"]
+- !private ["PSo18UIFocusEnvironment", "statePicker"]
+- !private ["PSo18UIFocusEnvironment", "states"]
+- !private ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "delegate"]
+- !private ["PSo11UIFocusItem", "isHidden"]
+- !private ["PSo11UIFocusItem", "setTitle"]
+- !private ["CSo12UIPickerView", "delegate"]
+- !private ["CSo12UIPickerView", "isHidden"]
+- !private ["PSo20UIPickerViewDelegate", "UIControlState"]
+- ["PSo20UIPickerViewDelegate", "pickerView"]
+- !private ["PSo20UIPickerViewDelegate", "stateDisplay"]
+- !private ["PSo20UIPickerViewDelegate", "statePicker"]
+- !private ["PSo20UIPickerViewDelegate", "states"]
+- ["PSo20UIPickerViewDelegate", ""]
+- ["CSo11UIResponder", "Int"]
+- ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "UIButton"]
+- !private ["CSo11UIResponder", "UIControlState"]
+- ["CSo11UIResponder", "UIPickerView"]
+- !private ["CSo11UIResponder", "delegate"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "isHidden"]
+- ["CSo11UIResponder", "numberOfComponents"]
+- ["CSo11UIResponder", "pickerView"]
+- !private ["CSo11UIResponder", "setTitle"]
+- ["CSo11UIResponder", "stateButton"]
+- ["CSo11UIResponder", "stateDisplay"]
+- ["CSo11UIResponder", "statePicker"]
+- ["CSo11UIResponder", "states"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "UIControlState"]
+- !private ["PSo30UIResponderStandardEditActions", "delegate"]
+- !private ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "isHidden"]
+- ["PSo30UIResponderStandardEditActions", "pickerView"]
+- !private ["PSo30UIResponderStandardEditActions", "setTitle"]
+- !private ["PSo30UIResponderStandardEditActions", "stateDisplay"]
+- !private ["PSo30UIResponderStandardEditActions", "statePicker"]
+- !private ["PSo30UIResponderStandardEditActions", "states"]
+- !private ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "UIControlState"]
+- !private ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "pickerView"]
+- !private ["PSo16UIStateRestoring", "stateDisplay"]
+- !private ["PSo16UIStateRestoring", "statePicker"]
+- !private ["PSo16UIStateRestoring", "states"]
+- !private ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "UIControlState"]
+- !private ["PSo18UITraitEnvironment", "delegate"]
+- !private ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "isHidden"]
+- ["PSo18UITraitEnvironment", "pickerView"]
+- !private ["PSo18UITraitEnvironment", "setTitle"]
+- !private ["PSo18UITraitEnvironment", "stateDisplay"]
+- !private ["PSo18UITraitEnvironment", "statePicker"]
+- !private ["PSo18UITraitEnvironment", "states"]
+- !private ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "delegate"]
+- !private ["CSo6UIView", "isHidden"]
+- !private ["CSo6UIView", "setTitle"]
+- ["CSo16UIViewController", "Int"]
+- ["CSo16UIViewController", "String"]
+- ["CSo16UIViewController", "UIButton"]
+- !private ["CSo16UIViewController", "UIControlState"]
+- ["CSo16UIViewController", "UIPickerView"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "numberOfComponents"]
+- ["CSo16UIViewController", "pickerView"]
+- ["CSo16UIViewController", "stateButton"]
+- ["CSo16UIViewController", "stateDisplay"]
+- ["CSo16UIViewController", "statePicker"]
+- ["CSo16UIViewController", "states"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["C11MiraclePill14ViewController", "Int"]
+- ["C11MiraclePill14ViewController", "String"]
+- ["C11MiraclePill14ViewController", "UIButton"]
+- !private ["C11MiraclePill14ViewController", "UIControlState"]
+- ["C11MiraclePill14ViewController", "UIPickerView"]
+- ["C11MiraclePill14ViewController", "deinit"]
+- ["C11MiraclePill14ViewController", "didReceiveMemoryWarning"]
+- ["C11MiraclePill14ViewController", "init"]
+- ["C11MiraclePill14ViewController", "numberOfComponents"]
+- ["C11MiraclePill14ViewController", "pickerView"]
+- ["C11MiraclePill14ViewController", "stateButton"]
+- ["C11MiraclePill14ViewController", "stateDisplay"]
+- ["C11MiraclePill14ViewController", "statePicker"]
+- ["C11MiraclePill14ViewController", "states"]
+- ["C11MiraclePill14ViewController", "viewDidLoad"]
+- !private ["Ps14_ArrayProtocol", "count"]
+- !private ["Ps14_ArrayProtocol", "subscript"]
+- !private ["Ps23_BidirectionalIndexable", "count"]
+- !private ["Ps23_BidirectionalIndexable", "subscript"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "delegate"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "isHidden"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "setTitle"]
+- !private ["Ps24_DestructorSafeContainer", "count"]
+- !private ["Ps24_DestructorSafeContainer", "subscript"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps33_ExpressibleByStringInterpolation", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "UIControlState"]
+- !private ["Ps9_Hashable", "delegate"]
+- !private ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "isHidden"]
+- ["Ps9_Hashable", "pickerView"]
+- !private ["Ps9_Hashable", "setTitle"]
+- !private ["Ps9_Hashable", "stateDisplay"]
+- !private ["Ps9_Hashable", "statePicker"]
+- !private ["Ps9_Hashable", "states"]
+- !private ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps10_Indexable", "count"]
+- !private ["Ps10_Indexable", "subscript"]
+- !private ["Ps14_IndexableBase", "count"]
+- !private ["Ps14_IndexableBase", "subscript"]
+- !private ["Ps17_MutableIndexable", "count"]
+- !private ["Ps17_MutableIndexable", "subscript"]
+- !private ["Ps21_ObjectiveCBridgeable", "count"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "subscript"]
+- !private ["Ps22_RandomAccessIndexable", "count"]
+- !private ["Ps22_RandomAccessIndexable", "subscript"]
+- !private ["Ps26_RangeReplaceableIndexable", "count"]
+- !private ["Ps26_RangeReplaceableIndexable", "subscript"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- !private "Ps9OptionSet"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps16RawRepresentable"
+- !private "Ps8Sequence"
+- !private "Ps10SetAlgebra"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo8UIButton"
+- "PSo18UIContentContainer"
+- !private "CSo9UIControl"
+- !private "VSC14UIControlState"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "CSo12UIPickerView"
+- "PSo20UIPickerViewDelegate"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- "C11MiraclePill14ViewController"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps23_BidirectionalIndexable"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps24_DestructorSafeContainer"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps33_ExpressibleByStringInterpolation"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- !private "Ps17_MutableIndexable"
+- "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessIndexable"
+- !private "Ps26_RangeReplaceableIndexable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+interface-hash: "4807ed36a4b00367900561e40ce52226"

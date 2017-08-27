@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "09cab8be6d8da22c5d6cefddaf25b503"
+build_time: [553006433, 594057000]
+inputs:
+  "/Users/wireless/Desktop/swift/apps/MiraclePill/MiraclePill/ViewController.swift": [550469795, 0]
+  "/Users/wireless/Desktop/swift/apps/MiraclePill/MiraclePill/AppDelegate.swift": [550204895, 0]
